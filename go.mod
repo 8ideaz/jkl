@@ -1,3 +1,3 @@
-module github.com/alwindoss/shepherd
+module github.com/8ideaz/jkl
 
 go 1.23.3
